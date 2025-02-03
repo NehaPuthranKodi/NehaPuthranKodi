@@ -30,7 +30,3 @@
 ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 
-### GitHub Stats
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neha-RSPuthran&layout=compact&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neha-RSPuthran&show_icons=true&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Neha-RSPuthran&theme=dark)
